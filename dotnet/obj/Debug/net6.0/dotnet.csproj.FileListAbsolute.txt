@@ -1,0 +1,15 @@
+D:\Espire\dotnet\bin\Debug\net6.0\dotnet.exe
+D:\Espire\dotnet\bin\Debug\net6.0\dotnet.deps.json
+D:\Espire\dotnet\bin\Debug\net6.0\dotnet.runtimeconfig.json
+D:\Espire\dotnet\bin\Debug\net6.0\dotnet.dll
+D:\Espire\dotnet\bin\Debug\net6.0\dotnet.pdb
+D:\Espire\dotnet\obj\Debug\net6.0\dotnet.csproj.AssemblyReference.cache
+D:\Espire\dotnet\obj\Debug\net6.0\dotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Espire\dotnet\obj\Debug\net6.0\dotnet.AssemblyInfoInputs.cache
+D:\Espire\dotnet\obj\Debug\net6.0\dotnet.AssemblyInfo.cs
+D:\Espire\dotnet\obj\Debug\net6.0\dotnet.csproj.CoreCompileInputs.cache
+D:\Espire\dotnet\obj\Debug\net6.0\dotnet.dll
+D:\Espire\dotnet\obj\Debug\net6.0\refint\dotnet.dll
+D:\Espire\dotnet\obj\Debug\net6.0\dotnet.pdb
+D:\Espire\dotnet\obj\Debug\net6.0\dotnet.genruntimeconfig.cache
+D:\Espire\dotnet\obj\Debug\net6.0\ref\dotnet.dll
