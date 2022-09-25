@@ -1,0 +1,17 @@
+D:\Espire\C#\Calculator\bin\Debug\net6.0-windows\Calculator.exe
+D:\Espire\C#\Calculator\bin\Debug\net6.0-windows\Calculator.deps.json
+D:\Espire\C#\Calculator\bin\Debug\net6.0-windows\Calculator.runtimeconfig.json
+D:\Espire\C#\Calculator\bin\Debug\net6.0-windows\Calculator.dll
+D:\Espire\C#\Calculator\bin\Debug\net6.0-windows\Calculator.pdb
+D:\Espire\C#\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.AssemblyReference.cache
+D:\Espire\C#\Calculator\obj\Debug\net6.0-windows\Calculator.Form1.resources
+D:\Espire\C#\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.GenerateResource.cache
+D:\Espire\C#\Calculator\obj\Debug\net6.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Espire\C#\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfoInputs.cache
+D:\Espire\C#\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfo.cs
+D:\Espire\C#\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.CoreCompileInputs.cache
+D:\Espire\C#\Calculator\obj\Debug\net6.0-windows\Calculator.dll
+D:\Espire\C#\Calculator\obj\Debug\net6.0-windows\refint\Calculator.dll
+D:\Espire\C#\Calculator\obj\Debug\net6.0-windows\Calculator.pdb
+D:\Espire\C#\Calculator\obj\Debug\net6.0-windows\Calculator.genruntimeconfig.cache
+D:\Espire\C#\Calculator\obj\Debug\net6.0-windows\ref\Calculator.dll

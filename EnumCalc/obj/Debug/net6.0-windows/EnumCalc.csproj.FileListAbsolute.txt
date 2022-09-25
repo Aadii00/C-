@@ -1,0 +1,7 @@
+D:\Espire\C#\EnumCalc\obj\Debug\net6.0-windows\EnumCalc.csproj.AssemblyReference.cache
+D:\Espire\C#\EnumCalc\obj\Debug\net6.0-windows\EnumCalc.Form1.resources
+D:\Espire\C#\EnumCalc\obj\Debug\net6.0-windows\EnumCalc.csproj.GenerateResource.cache
+D:\Espire\C#\EnumCalc\obj\Debug\net6.0-windows\EnumCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Espire\C#\EnumCalc\obj\Debug\net6.0-windows\EnumCalc.AssemblyInfoInputs.cache
+D:\Espire\C#\EnumCalc\obj\Debug\net6.0-windows\EnumCalc.AssemblyInfo.cs
+D:\Espire\C#\EnumCalc\obj\Debug\net6.0-windows\EnumCalc.csproj.CoreCompileInputs.cache
